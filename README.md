@@ -16,6 +16,12 @@
 
 1. โคลนโปรเจกต์
 
-		https://github.com/SashaPGT/kmitlfood.git
+		git clone https://github.com/SashaPGT/kmitlfood.git
 
-2. ขั้นตอนต่อไป
+2. ติดตั้ง Dependencies ที่จำเป็น
+		
+		npm i
+
+3. เริ่มการทำงานเลย!
+
+		npm start
